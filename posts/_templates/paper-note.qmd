@@ -1,0 +1,40 @@
+---
+title: "[Paper Note] 저자 (연도). 짧은 제목"
+description: "한 문장 평가"
+date: 2026-01-01
+series: "Paper Notes"
+post-type: "리뷰"
+book-chapter: 0
+book-section: 0
+related-chapters: []
+abstract-en: |
+  Three-line English abstract for international indexing.
+audience: "임상·보건 배경의 연구자, 기초 Python"
+prerequisites: []
+categories: []
+---
+
+::: {.callout-note title="핵심 요약"}
+- 무엇을 했는가
+- 무엇을 보였는가
+- 믿어도 되는가
+:::
+
+## 서지 정보
+[@key]
+
+## 연구 질문과 설계
+
+## 주요 결과
+수치는 반드시 출처 페이지·표 번호와 함께.
+
+## 비판적 평가
+- 내적 타당도:
+- 외적 타당도:
+- 재현 가능성(코드·데이터 공개 여부):
+
+## 내 연구·국내 상황에 주는 시사점
+
+## 참고문헌
+::: {#refs}
+:::

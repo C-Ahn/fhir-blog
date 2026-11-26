@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets/"
+
+website:
+  title: "FHIR for Research"
+  description: "연구자를 위한 FHIR — 병원 데이터에서 근거 생성까지"
+  site-url: https://C-Ahn.github.io/fhir-blog   # 개인 도메인으로 교체
+  repo-url: https://github.com/C-Ahn/fhir-blog      # 교체
+  navbar:
+    left:
+      - href: index.qmd
+        text: 글
+      - href: series.qmd
+        text: 시리즈
+      - href: about.qmd
+        text: 소개
+    right:
+      - icon: github
+        href: https://github.com/C-Ahn/fhir-blog
+      - icon: rss
+        href: index.xml
+  page-footer:
+    left: "© CEIL · 본문 CC BY 4.0, 코드 MIT"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, assets/styles.scss]
+    lang: ko
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: true
+    code-copy: true
+    link-external-newwindow: true
+    include-in-header:
+      - text: '<meta name="google-site-verification" content="">'
+
+bibliography: references.bib
+csl: assets/vancouver.csl
+citation: true
+
+execute:
+  freeze: auto      # 코드 실행 결과를 캐시 — 배포 시 재실행하지 않음
+  echo: true
+  warning: false

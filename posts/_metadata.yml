@@ -1,0 +1,11 @@
+# posts/ 아래 모든 글에 적용되는 기본값
+author:
+  - name: "Chiwon Ahn"
+    affiliation: "CEIL (Clinical Evidence Intelligence Lab) / Chung-Ang University Hospital"
+date-modified: last-modified
+license: "CC BY 4.0"
+toc: true
+number-sections: false
+draft: false
+version: "0.1"
+fhir-version: "R4 (4.0.1)"

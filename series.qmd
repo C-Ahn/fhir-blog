@@ -1,0 +1,63 @@
+---
+citation: false
+title: "시리즈"
+subtitle: "책 목차 순서로 정렬된 글 목록"
+listing:
+  - id: s-basics
+    contents: posts/ch0[1-3]-*/*.qmd
+    sort: "book-chapter asc, book-section asc"
+    type: table
+    fields: [book-chapter, book-section, title, date]
+    field-display-names:
+      book-chapter: "장"
+      book-section: "절"
+  - id: s-research
+    contents: posts/ch0[4-7]-*/*.qmd
+    sort: "book-chapter asc, book-section asc"
+    type: table
+    fields: [book-chapter, book-section, title, date]
+  - id: s-design
+    contents: posts/ch0[8-9]-*/*.qmd posts/ch10-*/*.qmd
+    sort: "book-chapter asc, book-section asc"
+    type: table
+    fields: [book-chapter, book-section, title, date]
+  - id: s-cdss
+    contents: posts/ch11-*/*.qmd
+    sort: "book-chapter asc, book-section asc"
+    type: table
+    fields: [book-chapter, book-section, title, date]
+  - id: s-korea
+    contents: posts/ch12-*/*.qmd
+    sort: "book-chapter asc, book-section asc"
+    type: table
+    fields: [book-chapter, book-section, title, date]
+  - id: s-notes
+    contents: posts/notes-*/*.qmd
+    sort: "date desc"
+    type: table
+    fields: [title, date]
+---
+
+## 1부. FHIR 기초 (1~3장)
+:::{#s-basics}
+:::
+
+## 2부. FHIR for Research (4~7장)
+:::{#s-research}
+:::
+
+## 3부. 연구 설계·분석 (8~10장)
+:::{#s-design}
+:::
+
+## 4부. CDSS 설계 (11장)
+:::{#s-cdss}
+:::
+
+## 국내 FHIR 현황 (12장)
+:::{#s-korea}
+:::
+
+## Paper Notes
+:::{#s-notes}
+:::

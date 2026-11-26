@@ -1,0 +1,55 @@
+---
+title: "동사형 제목: 무엇을 어떻게 한다"
+description: "한 문장 요약"
+date: 2026-01-01
+series: "FHIR for Research"
+post-type: "실습"
+book-chapter: 6
+book-section: 1
+abstract-en: |
+  Three-line English abstract for international indexing.
+audience: "임상·보건 배경의 연구자, 기초 Python"
+prerequisites: []
+categories: []
+---
+
+::: {.callout-note title="핵심 요약"}
+- 이 글을 따라 하면 얻는 것
+- 걸리는 시간 / 필요한 자원
+- 핵심 결정 사항
+:::
+
+**대상 독자** · {{< meta audience >}}  **선수지식** · [이전 글 링크]  **FHIR 버전** · {{< meta fhir-version >}}
+
+## 목표
+
+## 환경·데이터
+| 항목 | 버전 |
+|---|---|
+| 데이터 | MIMIC-IV-on-FHIR v2.1 |
+| Python | 3.12 |
+| 주요 라이브러리 | fhir.resources x.y, duckdb x.y |
+
+데이터 접근은 PhysioNet 자격 인증과 DUA가 필요하다 [@mimic-fhir].
+
+## 단계별 실행
+```{python}
+#| eval: false
+# 저장소 패키지에서 import — 글에 코드를 복사하지 않는다
+# from fhirlab.load import stream_observations
+```
+
+## 결과 해석
+
+## 한계와 비판적 검토
+데이터 편향, 매핑 손실, 일반화 가능성.
+
+## 저장소
+코드·노트북: `repo/path` (commit `abcdef`)
+
+## 참고문헌
+::: {#refs}
+:::
+
+## 수정 이력
+- v0.1 (YYYY-MM-DD): 초고

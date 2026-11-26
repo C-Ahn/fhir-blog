@@ -1,0 +1,47 @@
+---
+title: "[Technical Note] 문제를 한 줄로"
+description: "한 문장 요약"
+date: 2026-01-01
+series: "FHIR for Research"
+post-type: "technical-note"
+book-chapter: 7
+book-section: 2
+disclosure-check:
+  paper-status: "미투고 | 투고중 | 게재"
+  patent-status: "해당없음 | 출원 전 | 출원 완료"
+  conflict-of-interest: "없음"
+abstract-en: |
+  Three-line English abstract for international indexing.
+audience: "임상·보건 배경의 연구자, 기초 Python"
+prerequisites: []
+categories: []
+---
+
+::: {.callout-note title="핵심 요약"}
+- 문제
+- 접근
+- 예비 결과 한 줄
+:::
+
+::: {.callout-warning title="공개 범위"}
+이 글은 설계 판단과 방법을 다루며, 평가 수치는 논문 투고 후 갱신한다.
+:::
+
+## 문제 정의
+
+## 접근
+
+## 구현 개요
+
+## 예비 평가
+
+## 한계
+
+## 향후 계획
+
+## 참고문헌
+::: {#refs}
+:::
+
+## 수정 이력
+- v0.1 (YYYY-MM-DD): 초고

@@ -1,0 +1,30 @@
+---
+title: "FHIR란 무엇인가: 연구자가 알아야 할 Resource 5개"
+description: "Patient, Encounter, Condition, Observation, MedicationAdministration — 임상연구의 90%는 이 다섯으로 시작한다"
+date: 2026-12-01
+series: "FHIR 기초"
+post-type: "해설"
+book-chapter: 2
+book-section: 1
+draft: true
+abstract-en: |
+  Three-line English abstract for international indexing.
+audience: "임상·보건 배경의 연구자, 기초 Python"
+prerequisites: []
+categories: []
+---
+
+::: {.callout-note title="핵심 요약"}
+- FHIR는 의료 데이터를 '리소스'라는 작은 JSON 단위로 교환하는 HL7 표준이다
+- 연구 코호트 정의에 실제로 쓰이는 리소스는 다섯 개로 좁혀진다
+- 리소스 간 Reference가 관계형 DB의 외래키 역할을 한다
+:::
+
+**대상 독자** · {{< meta audience >}}  **선수지식** · 없음  **FHIR 버전** · {{< meta fhir-version >}}
+
+## 왜 필요한가
+(초고)
+
+## 참고문헌
+::: {#refs}
+:::
