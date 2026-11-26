@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://C-Ahn.github.io/fhir-blog/about.html</loc>
+    <lastmod>2026-11-26T13:32:25.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://C-Ahn.github.io/fhir-blog/TODO.html</loc>
+    <lastmod>2026-11-26T13:32:25.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://C-Ahn.github.io/fhir-blog/series.html</loc>
+    <lastmod>2026-11-26T13:32:25.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://C-Ahn.github.io/fhir-blog/index.html</loc>
+    <lastmod>2026-11-26T13:32:25.381Z</lastmod>
+  </url>
+</urlset>

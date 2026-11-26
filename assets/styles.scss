@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+$font-family-monospace: "JetBrains Mono", "D2Coding", monospace;
+$body-font-size: 1.05rem;
+$line-height-base: 1.75;
+$primary: #1f4e79;
+
+/*-- scss:rules --*/
+.quarto-title .subtitle { color: #555; }
+.callout-note { border-left-color: $primary; }
+table { font-size: 0.95rem; }

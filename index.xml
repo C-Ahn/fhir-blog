@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>FHIR for Research</title>
+<link>https://C-Ahn.github.io/fhir-blog/</link>
+<atom:link href="https://C-Ahn.github.io/fhir-blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>연구자를 위한 FHIR — 병원 데이터에서 근거 생성까지</description>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Thu, 26 Nov 2026 13:32:26 GMT</lastBuildDate>
+</channel>
+</rss>

@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "소개",
+    "section": "",
+    "text": "FHIR로 임상연구를 해 보려고 자료를 찾았는데, 한국어로 된 책이나 정리된 글이 거의 없었습니다. 그래서 공부하고 연구하면서 알게 된 것을 순서대로 적어 두려고 합니다. FHIR의 기본 개념에서 시작해 코호트를 정의하고 분석하는 데까지 다루고, 가능하면 직접 돌려 볼 수 있는 코드를 함께 싣습니다.\n예시 데이터는 글마다 바꾸지 않고 MIMIC-IV-on-FHIR의 응급실 패혈증 환자를 계속 씁니다. 같은 데이터를 따라가야 앞 글과 뒷글이 이어지기 때문입니다.\n여기 쓴 글은 나중에 『연구자를 위한 FHIR』(가제)이라는 책으로 엮을 계획입니다."
+  },
+  {
+    "objectID": "about.html#이-블로그는",
+    "href": "about.html#이-블로그는",
+    "title": "소개",
+    "section": "",
+    "text": "FHIR로 임상연구를 해 보려고 자료를 찾았는데, 한국어로 된 책이나 정리된 글이 거의 없었습니다. 그래서 공부하고 연구하면서 알게 된 것을 순서대로 적어 두려고 합니다. FHIR의 기본 개념에서 시작해 코호트를 정의하고 분석하는 데까지 다루고, 가능하면 직접 돌려 볼 수 있는 코드를 함께 싣습니다.\n예시 데이터는 글마다 바꾸지 않고 MIMIC-IV-on-FHIR의 응급실 패혈증 환자를 계속 씁니다. 같은 데이터를 따라가야 앞 글과 뒷글이 이어지기 때문입니다.\n여기 쓴 글은 나중에 『연구자를 위한 FHIR』(가제)이라는 책으로 엮을 계획입니다."
+  },
+  {
+    "objectID": "about.html#글의-종류",
+    "href": "about.html#글의-종류",
+    "title": "소개",
+    "section": "글의 종류",
+    "text": "글의 종류\n\n\n\n유형\n내용\n\n\n\n\n해설\n표준 문서를 바탕으로 개념을 설명합니다\n\n\n실습\n코드를 단계별로 실행하고 결과를 보여 줍니다\n\n\n리뷰\n논문이나 표준 문서를 읽고 평가합니다\n\n\nTechnical Note\n제 연구에서 내린 설계 판단과 예비 결과를 적습니다\n\n\n관점\n의견이나 문제 제기입니다"
+  },
+  {
+    "objectID": "about.html#저자",
+    "href": "about.html#저자",
+    "title": "소개",
+    "section": "저자",
+    "text": "저자\n안치원. 중앙대학교병원 응급의학과에서 진료하고, Clinical Evidence Intelligence Lab(CEIL)에서 임상 데이터로 근거를 만드는 연구를 하고 있습니다."
+  },
+  {
+    "objectID": "about.html#이용",
+    "href": "about.html#이용",
+    "title": "소개",
+    "section": "이용",
+    "text": "이용\n글은 CC BY 4.0, 코드는 MIT 라이선스로 공개합니다. 인용하실 때는 각 글 아래에 있는 인용 정보를 쓰시면 됩니다. 틀린 내용을 발견하시면 GitHub 이슈로 알려 주세요."
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "",
+    "section": "",
+    "text": "코드\n\n\n\n\n\n배포 전 체크리스트\n\nGitHub 저장소 생성, _quarto.yml의 site-url / repo-url 교체\nSettings → Pages → Source: gh-pages 브랜치\n개인 도메인(CNAME) 설정 — CEIL 도메인 권장\nassets/vancouver.csl 다운로드\nposts/_metadata.yml 저자 정보 확인\n첫 글 3편 초고: 관점(블로그를 왜 쓰는가) / 해설(Resource 5개, 초안 포함) / 실습(MIMIC-IV on FHIR 설치와 첫 쿼리)\nZenodo ↔︎ GitHub 연동(DOI)\nLinkedIn 요약 게시 템플릿\n\n\n\n\n\n\n\n인용BibTeX 인용:@online{untitled,\n  author = {},\n  url = {https://C-Ahn.github.io/fhir-blog/TODO.html},\n  langid = {ko}\n}\n인용방법\n[Internet]. Available from: https://C-Ahn.github.io/fhir-blog/TODO.html"
+  },
+  {
+    "objectID": "series.html",
+    "href": "series.html",
+    "title": "시리즈",
+    "section": "",
+    "text": "장\n절\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#부.-fhir-기초-13장",
+    "href": "series.html#부.-fhir-기초-13장",
+    "title": "시리즈",
+    "section": "",
+    "text": "장\n절\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#부.-fhir-for-research-47장",
+    "href": "series.html#부.-fhir-for-research-47장",
+    "title": "시리즈",
+    "section": "2부. FHIR for Research (4~7장)",
+    "text": "2부. FHIR for Research (4~7장)\n\n\n    \n      \n      \n    \n\n\n\n\nbook-chapter\nbook-section\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#부.-연구-설계분석-810장",
+    "href": "series.html#부.-연구-설계분석-810장",
+    "title": "시리즈",
+    "section": "3부. 연구 설계·분석 (8~10장)",
+    "text": "3부. 연구 설계·분석 (8~10장)\n\n\n    \n      \n      \n    \n\n\n\n\nbook-chapter\nbook-section\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#부.-cdss-설계-11장",
+    "href": "series.html#부.-cdss-설계-11장",
+    "title": "시리즈",
+    "section": "4부. CDSS 설계 (11장)",
+    "text": "4부. CDSS 설계 (11장)\n\n\n    \n      \n      \n    \n\n\n\n\nbook-chapter\nbook-section\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#국내-fhir-현황-12장",
+    "href": "series.html#국내-fhir-현황-12장",
+    "title": "시리즈",
+    "section": "국내 FHIR 현황 (12장)",
+    "text": "국내 FHIR 현황 (12장)\n\n\n    \n      \n      \n    \n\n\n\n\nbook-chapter\nbook-section\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "series.html#paper-notes",
+    "href": "series.html#paper-notes",
+    "title": "시리즈",
+    "section": "Paper Notes",
+    "text": "Paper Notes\n\n\n    \n      \n      \n    \n\n\n\n\n제목\n날짜\n\n\n\n\n\n일치 없음"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FHIR for Research",
+    "section": "",
+    "text": "일치 없음"
+  }
+]
